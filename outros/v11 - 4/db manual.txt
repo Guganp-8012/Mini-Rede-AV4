@@ -1,0 +1,18 @@
+-- 1. INSERIR USUÁRIOS
+INSERT INTO usuarios (id, nome, idade, login, senha) VALUES 
+(1, 'Professor Joselito', 40, 'joselito', '03ac674216f3e15c7423083a9a430d1388d1b1f139d4791ea0a693b4f535d8af'), -- senha: 1234
+(2, 'Ana Silva', 19, 'ana', '03ac674216f3e15c7423083a9a430d1388d1b1f139d4791ea0a693b4f535d8af'),          -- senha: 1234
+(3, 'Carlos Eduardo', 21, 'carlos', '03ac674216f3e15c7423083a9a430d1388d1b1f139d4791ea0a693b4f535d8af'),   -- senha: 1234
+(4, 'Beatriz Souza', 18, 'bia', '03ac674216f3e15c7423083a9a430d1388d1b1f139d4791ea0a693b4f535d8af'),      -- senha: 1234
+(5, 'Bruno Lima', 22, 'bruno', '03ac674216f3e15c7423083a9a430d1388d1b1f139d4791ea0a693b4f535d8af'),       -- senha: 1234
+(6, 'Amanda Costa', 20, 'amanda', '03ac674216f3e15c7423083a9a430d1388d1b1f139d4791ea0a693b4f535d8af');    -- senha: 1234
+
+-- 2. INSERIR AMIZADES (Respeitando a regra CHECK de id_a < id_b)
+INSERT INTO amizades (id_a, id_b) VALUES 
+(1, 2), -- Joselito é amigo de Ana
+(1, 3), -- Joselito é amigo de Carlos
+(2, 3), -- Ana é amiga de Carlos
+(2, 4), -- Ana é amiga de Bia
+(4, 5), -- Bia é amiga de Bruno
+(5, 6), -- Bruno é amigo de Amanda
+(3, 6); -- Carlos é amigo de Amanda

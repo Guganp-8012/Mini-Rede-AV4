@@ -1,0 +1,7 @@
+db_manual
+Perfil - melhoria?
+cadastro/login + senha hash?
+Ideias boas da versão 11/4
+Criar nome da rede
+
+Fazer relatório
