@@ -1,7 +1,6 @@
-db_manual
+db_manual ?
 Perfil - melhoria?
 cadastro/login + senha hash?
-Ideias boas da versão 11/4
+Ideias boas da versão 1.1.4
 Criar nome da rede
-
-Fazer relatório
+aprimorar projeto após apresentação - separar cód apresentado
