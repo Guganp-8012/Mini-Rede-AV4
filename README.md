@@ -1,7 +1,7 @@
 # Rede Social Simples
 
 Piauí Instituto de Tecnologia – PIT<br>
-Trabalho final da disciplina de Algoritmos, Estruturas de Dados e Programação.
+Trabalho final da disciplina de Algoritmos, Estruturas de Dados e Programação.<br>
 Professor: Joselito Mendes Sousa Júnior<br>
 
 ## Descrição
