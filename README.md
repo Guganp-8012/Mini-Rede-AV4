@@ -1,8 +1,8 @@
-# Rede Social Simples {substituir nome da rede(?)}
+# Rede Social Simples
 
 Piauí Instituto de Tecnologia – PIT
-Trabalho final da disciplina de Algoritmos, Estruturas de Dados e Programação.
-Professor: Joselito Junior
+→ Trabalho final da disciplina de Algoritmos, Estruturas de Dados e Programação.
+Professor: Joselito Mendes Sousa Júnior
 
 ## Descrição
 
